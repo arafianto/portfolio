@@ -3,9 +3,9 @@
 Welcome to my Data Analyst portfolio! Here, you'll find my projects, analyses, and insights derived from real-world datasets. My expertise includes data visualization, statistical analysis, and data-driven storytelling.
 
 ## 🎓 Education
-Universitas Indonesia  
-Bachelor of Science, Physics  
-2018 - 2024  
+Universitas Indonesia <br>
+Bachelor of Science, Physics <br> 
+2018 - 2024 <br> 
 GPA 3.49  
 
 ## 🏆 About Me
