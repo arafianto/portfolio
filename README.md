@@ -11,40 +11,29 @@ GPA 3.49
 ## 🏆 About Me
 
 I'm a data analyst with a strong background in:
-- Data visualization using **Tableau, Power BI, and Matplotlib**
+- Data visualization using **Tableau, Seaborn, and Matplotlib**
 - SQL for querying and managing databases
 - Python for data analysis (**Pandas, NumPy, Scikit-learn**)
 - A/B testing and statistical analysis
 - Web analytics and marketing data insights
 
 ## 📁 Projects
-### 1. **Movie Revenue Analysis**
-   - **Tools Used:** Tableau, SQL, Pandas
-   - **Overview:** Analyzed global box office revenue trends, genres, and factors affecting movie success.
-   - [View Project](#)
+### 1. **Explora - Plant Learning Application**
+   - **Tools Used:** Python, Tensorflow, Postman
+   - **Overview:** This project involved building a plant classification model for the Explora app using the EfficientNetB0 architecture and a Kaggle dataset of 30 plant species. By leveraging transfer learning, the model achieved strong accuracy and low loss, demonstrating its potential for practical use and further improvement.
+   - [View Project]([#](https://github.com/Explora-App))
 
-### 2. **Customer Segmentation for E-commerce**
+### 2. **Optimization of Parameters in The Preprocessing and Classification of Raman Spectra for Prostate Cancer Tissue Specimens using The XGBoost Algorithm**
    - **Tools Used:** Python (Scikit-learn), Power BI
-   - **Overview:** Performed clustering and RFM analysis to identify key customer segments.
-   - [View Project](#)
-
-### 3. **Marketing Campaign A/B Testing**
-   - **Tools Used:** Python (SciPy), SQL, Google Analytics
-   - **Overview:** Assessed the impact of marketing campaigns using A/B testing and statistical analysis.
-   - [View Project](#)
+   - **Overview:** developed a data pipeline combining preprocessing and classification to accurately distinguish between IDC-P and HGPIN prostate cancer variants using Raman spectroscopy data.
 
 ## 📊 Dashboards
-- **Movie Revenue Insights** ([Tableau Dashboard](#))
-- **E-commerce Customer Segments** ([Power BI Dashboard](#))
+- **House Sales Dashboard** ([Tableau Dashboard](https://public.tableau.com/views/HouseSalesDashboard_17395414744560/HouseDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ## 📜 Blog Posts
 - [How A/B Testing Can Optimize Marketing Campaigns](#)
 - [Data Storytelling: Crafting Insights from Raw Data](#)
 
 ## 🔗 Connect with Me
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- **Portfolio Website:** [yourportfolio.com](https://yourportfolio.com)
-
----
-💡 *Data transforms decisions. Let's uncover insights together!*
+- **GitHub:** [github.com/arafianto](https://github.com/arafianto)
+- **LinkedIn:** [linkedin.com/in/arafianto](https://linkedin.com/in/arafianto)
