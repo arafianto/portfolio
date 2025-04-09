@@ -3,10 +3,10 @@
 Welcome to my Data Analyst portfolio! Here, you'll find my projects, analyses, and insights derived from real-world datasets. My expertise includes data visualization, statistical analysis, and data-driven storytelling.
 
 ## 🎓 Education
-Universitas Indonesia
-Bachelor of Science, Physics
-2018 - 2024
-GPA 3.49
+Universitas Indonesia  
+Bachelor of Science, Physics  
+2018 - 2024  
+GPA 3.49  
 
 ## 🏆 About Me
 
@@ -29,10 +29,6 @@ I'm a data analyst with a strong background in:
 
 ## 📊 Dashboards
 - **House Sales Dashboard** ([Tableau Dashboard](https://public.tableau.com/views/HouseSalesDashboard_17395414744560/HouseDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
-
-## 📜 Blog Posts
-- [How A/B Testing Can Optimize Marketing Campaigns](#)
-- [Data Storytelling: Crafting Insights from Raw Data](#)
 
 ## 🔗 Connect with Me
 - **GitHub:** [github.com/arafianto](https://github.com/arafianto)
