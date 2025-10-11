@@ -4,7 +4,8 @@ Welcome to my Data Analyst portfolio! Here, you'll find my projects, analyses, a
 
 ## 🎓 Education
 Universitas Indonesia <br>
-Bachelor of Science, Physics <br> 
+Bachelor of Science, Physics <br>
+Minor in Medical Physics & Biophysics
 2018 - 2024 | GPA 3.49  
 
 ## 🏆 About Me
