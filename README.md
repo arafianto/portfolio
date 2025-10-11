@@ -22,7 +22,7 @@ I'm a data analyst with a strong background in:
 ### 1. **Explora - Plant Learning Application**
    - **Tools Used:** Python, Tensorflow, Postman
    - **Overview:** This project involved building a plant classification model for the Explora app using the EfficientNetB0 architecture and a Kaggle dataset of 30 plant species. By leveraging transfer learning, the model achieved strong accuracy and low loss, demonstrating its potential for practical use and further improvement.
-   - [View Project]((https://github.com/Explora-App))
+   - [View Project](https://github.com/Explora-App)
 
 ### 2. **Optimization of Parameters in The Preprocessing and Classification of Raman Spectra for Prostate Cancer Tissue Specimens using The XGBoost Algorithm**
    - **Tools Used:** Python (Scikit-learn, XGBoost, Scipy) 
