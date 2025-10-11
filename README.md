@@ -22,12 +22,12 @@ I'm a data analyst with a strong background in:
 ### 1. **Explora - Plant Learning Application**
    - **Tools Used:** Python, Tensorflow, Postman
    - **Overview:** This project involved building a plant classification model for the Explora app using the EfficientNetB0 architecture and a Kaggle dataset of 30 plant species. By leveraging transfer learning, the model achieved strong accuracy and low loss, demonstrating its potential for practical use and further improvement.
-   - [View Project]([#](https://github.com/Explora-App))
+   - [View Project]((https://github.com/Explora-App))
 
 ### 2. **Optimization of Parameters in The Preprocessing and Classification of Raman Spectra for Prostate Cancer Tissue Specimens using The XGBoost Algorithm**
    - **Tools Used:** Python (Scikit-learn, XGBoost, Scipy) 
    - **Overview:** Developed a data pipeline combining preprocessing and classification to accurately distinguish between IDC-P and HGPIN prostate cancer variants using Raman spectroscopy data.
-   - [View Project]([#]https://lib.ui.ac.id/m/detail.jsp?id=9999920540773&lokasi=lokal)
+   - [View Project](https://lib.ui.ac.id/m/detail.jsp?id=9999920540773&lokasi=lokal)
 
 ## 📊 Dashboards
 - **House Sales Dashboard** ([Tableau Dashboard](https://public.tableau.com/views/HouseSalesDashboard_17395414744560/HouseDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
