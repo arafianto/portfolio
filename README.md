@@ -1,3 +1,5 @@
+<head> <link rel="shortcut icon" type="image/png" href="profile-pic.jpg"> </head>
+
 # Data Analyst Portfolio
 
 Welcome to my Data Analyst portfolio! Here, you'll find my projects, analyses, and insights derived from real-world datasets. My expertise includes data visualization, statistical analysis, and data-driven storytelling.
