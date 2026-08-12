@@ -43,6 +43,8 @@ I'm a data analyst with a strong background in:
    - [View Project](https://lib.ui.ac.id/m/detail.jsp?id=9999920540773&lokasi=lokal)
 
 ## Dashboards
+- **Auto Sales Dashboard** ([Tableau Dashboard](https://public.tableau.com/views/AutoSalesDashboard_17864381436300/AutoSalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+- **Retail Sales Dashboard** ([Tableau Dashboard](https://public.tableau.com/views/RetailSalesDashboard_17863254955260/ExecutiveSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 - **House Sales Dashboard** ([Tableau Dashboard](https://public.tableau.com/views/HouseSalesDashboard_17395414744560/HouseDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 - **HR Performance** ([Tableau Dashboard](https://public.tableau.com/views/HRDashboardPacmann/MainDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
